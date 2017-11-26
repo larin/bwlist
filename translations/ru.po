@@ -1,0 +1,67 @@
+# $Id$
+#
+# Russian translation of Drupal (bwlist)
+# Copyright 2009 Ilya Larin <lib@rus.ec>
+# Generated from files:
+#  bwlist.module
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"POT-Creation-Date: 2009-01-08 18:04-0500\n"
+"PO-Revision-Date: 2009-01-08 18:04-0500\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: bwlist.module:6
+msgid "Black white list"
+msgstr "Чёрно-белый список"
+
+#: bwlist.module:14
+msgid "Add to the black list"
+msgstr "Очернить"
+
+#: bwlist.module:15
+msgid "Add to the white list"
+msgstr "Обелить"
+
+#: bwlist.module:16
+msgid "Delete from any list"
+msgstr "Очистить"
+
+#: bwlist.module:54
+msgid "Icon value:"
+msgstr "Значения иконок:"
+
+#: bwlist.module:58
+msgid "Filter:"
+msgstr "Фильтровать:"
+
+#: bwlist.module:59
+msgid "Blog/forum posts"
+msgstr "Темы в блогах и на форумах"
+
+#: bwlist.module:59
+msgid "Comments"
+msgstr "Комментарии"
+
+#: bwlist.module:62
+msgid "Switch OFF for"
+msgstr "Выключить для"
+
+#: bwlist.module:62
+msgid "Switch ON for"
+msgstr "Включить для"
+
+#: bwlist.module:106
+msgid "(Switch OFF)"
+msgstr "(Выключить)"
+
+#: bwlist.module:106
+msgid "(Switch ON)"
+msgstr "(Включить)"
+
+#: bwlist.info:0
+msgid "Creates lists of ignored users (black list) or non-ignored (white list) for each user."
+msgstr "Создаёт чёрные и белые списки, обеспечивает фильтрацию блогов, форумов и комментариев."

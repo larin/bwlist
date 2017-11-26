@@ -1,0 +1,24 @@
+.bw1 {
+  background: url(/img/user-option-remove.png) no-repeat;
+//  background: url(/img/spriteme1.png) no-repeat;
+//  background-position: -10px -45px;
+  width:16px;
+  height:16px;
+  float:left;
+}
+.bw2 {
+  background: url(/img/user-option-add.png) no-repeat;
+//  background: url(/img/spriteme1.png) no-repeat;
+//  background-position: -10px -81px;
+  width:16px;
+  height:16px;
+  float:left;
+}
+.bw3 {
+  background: url(/img/user-plain-blue.png) no-repeat;
+//  background: url(/img/spriteme1.png) no-repeat;
+//  background-position: -10px -187px;
+  width:16px;
+  height:16px;
+  float:left;
+}

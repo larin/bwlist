@@ -1,0 +1,18 @@
+<?php
+/**
+ * @file
+ * Install, update and uninstall functions for the bwlist module.
+ */
+
+function bwlist_schema() {
+  return array(
+    'bwlist' => array(
+      'fields' => array(
+        'uid' => array('type' => 'int', 'unsigned' => TRUE, 'not null' => TRUE),
+        'uid2' => array('type' => 'int', 'unsigned' => FALSE, 'not null' => TRUE),
+        'bw' => array('type' => 'char', 'length' => 1, 'not null' => TRUE),
+      ),
+      'primary key' => array('uid', 'uid2'),
+    ),
+  );
+}
